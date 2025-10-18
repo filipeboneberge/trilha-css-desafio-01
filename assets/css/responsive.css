@@ -1,0 +1,49 @@
+@media only screen and (max-width: 900px) {
+    .banner {
+        padding: 60px 40px;
+        height: 100%;
+    }
+
+    .banner .banner-content{
+        width: 100%;
+    }
+
+    #course-content {
+        width: 100%;
+        padding: 60px 40px;
+    }
+
+    #course-content h2 {
+        padding-top: 0; 
+    }
+
+    .module {
+        width: 100%;
+    }
+
+    #transform-world {
+        padding: 0;
+    }
+
+    #transform-world p {
+        margin: 150px auto;
+    }
+
+    #professional-challenges {
+    width: 100%;
+    padding: 60px 40px;
+    }
+
+    #professional-challenges h2 {
+    padding-top: 0;
+    }
+
+    #professional-challenges p {
+        margin-top: 30px;
+        margin-bottom: 0;
+    }
+
+    #professional-challenges img {
+    width: 100%;
+}
+}
